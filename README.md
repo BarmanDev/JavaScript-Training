@@ -1,7 +1,10 @@
 # ENTRENAMIENTO  JAVASCRIPT
-<div>
-<img src="./assets/gif/giphy.gif">
-</div>
+
+
+<p align="center">
+  <img src="./assets/gif/giphy.gif" width="200" height="200">
+</p>
+
 
 ## OBJETIVOS
 
@@ -30,15 +33,6 @@ Cada ejercicio se compone de un index.html el cual te mostrará la solución de 
 -13 Escribir un programa que escriba en pantalla los divisores de un número dado.
 -14 Escribir un programa que escriba en pantalla los divisores comunes de dos números dados
 -15 Escribir un programa que nos diga si un número dado es primo (no es divisible por ninguno otro número que no sea él mismo o la unidad)
-
-
-
-## INSTALACIÓN
-
-Clona el repositorio 
-```
-git clone 
-```
 
 
 
